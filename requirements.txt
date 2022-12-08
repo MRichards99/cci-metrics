@@ -6,7 +6,7 @@ beautifulsoup4==4.8.1
 -e git+https://github.com/cedadev/ceda-unittest-prometheus-wrapper.git@67b4bf08fe9e94048507a7276880c6724a9fe53b#egg=ceda_unittest_prometheus_wrapper
 -e git+https://github.com/cedadev/ceda-unittest-nagios-wrapper.git#egg=ceda-unittest-nagios-wrapper
 -e git+https://github.com/cedadev/slack-logging-handler.git#egg=cedadev-slack-logging-handler
-certifi==2019.9.11
+certifi==2022.12.7
 cftime==1.0.4.2
 chardet==3.0.4
 Click==7.0
